@@ -1,1 +1,2 @@
-# Stock-Sentiment-Analysis-Using-News-Headlines(Natural-Language-Processing)
+# Stock-Sentiment-Analysis-Using-News-Headlines
+        #(Natural-Language-Processing)
